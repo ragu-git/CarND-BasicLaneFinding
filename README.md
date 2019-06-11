@@ -14,6 +14,8 @@ To complete the project, two files will be submitted: a file containing project 
 
 To meet specifications in the project, take a look at the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/322/view)
 
+<img src="Basic Lane Detection Pipeline.png" width="480" alt="Combined Image" />
+
 
 Creating a Great Writeup
 ---
